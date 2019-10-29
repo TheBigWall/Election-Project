@@ -1,6 +1,8 @@
 # Election-Project
 Election Project for MATE 2800
 
+Go to https://playcode.io to test code out.
+
 I created this game for my election project for MATE 2800, Play as one of the two candiates competing in election graded on condorcet criterion.
 
 The Condorcet candidate is the person who would win a two-candidate election against each of the other candidates in a plurality vote.For a set of candidates, the Condorcet winner is always the same regardless of the voting system in question.
